@@ -86,7 +86,7 @@ Django + React + MySQL
 ---
 
 ## 📫 Contact Me
-- Email: **yourmail@gmail.com**  
+- Email: **mofizul.shuvoislam@gmail.com**  
 - LinkedIn: *(add your link)*  
 
 ---
