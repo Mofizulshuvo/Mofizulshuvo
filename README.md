@@ -8,9 +8,9 @@ CSE Student | Full-Stack Learner | Building Practical, Real-World Projects
 ## 🚀 About Me
 
 I’m a Computer Science & Engineering student learning software development step by step.  
-I believe in learning by **building real projects** rather than just following tutorials.
+I believe in learning by building real projects instead of only following tutorials.
 
-Currently, I’m developing a **complete Event Management System** from scratch using:
+Currently, I’m developing a complete **Event Management System** from scratch using:
 
 - **Django** for backend development  
 - **React** for frontend development  
@@ -95,7 +95,7 @@ Django | React | MySQL
 ## 📫 Contact
 
 - 📧 Email: **mofizul.shuvoislam@gmail.com**  
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/mofizul-shuvo  
 
 ---
 
