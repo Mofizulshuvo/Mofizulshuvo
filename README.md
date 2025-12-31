@@ -1,24 +1,28 @@
 <h1 align="center">Hi, I'm Shuvo 👋</h1>
-<p align="center">CSE Student | Full-Stack Learner | Building Practical Projects</p>
+<p align="center">
+CSE Student | Full-Stack Learner | Building Practical, Real-World Projects
+</p>
 
 ---
 
 ## 🚀 About Me
-I'm a CSE student learning software development step by step.  
-I prefer building real projects to understand how things actually work.  
-Right now I'm working on a **complete Event Management System** using:
 
-- Django (backend)
-- React (frontend)
-- MySQL (database)
+I’m a Computer Science & Engineering student learning software development step by step.  
+I believe in learning by **building real projects** rather than just following tutorials.
 
-I'm also exploring Algorithms, DBMS, TOC, and strengthening fundamentals.
+Currently, I’m developing a **complete Event Management System** from scratch using:
+
+- **Django** for backend development  
+- **React** for frontend development  
+- **MySQL** for database management  
+
+Alongside development, I’m strengthening my core CS fundamentals including Algorithms, DBMS, and Theory of Computation.
 
 ---
 
 ## 🛠️ Skills
 
-### **Languages**
+### **Programming Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -32,47 +36,50 @@ I'm also exploring Algorithms, DBMS, TOC, and strengthening fundamentals.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 </p>
 
-### **Database**
+### **Databases**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 </p>
 
-### **Other Skills**
+### **Core Knowledge & Concepts**
 - Data Structures & Algorithms  
-- DBMS (triggers, security, roles, decomposition)  
-- Theory of Computation basics  
-- Fourier series (complex & trigonometric)  
-- REST APIs  
+- Database Management Systems (Triggers, Security, Roles, Decomposition)  
+- Theory of Computation fundamentals  
+- Fourier Series (Complex & Trigonometric)  
+- REST API design  
 - Authentication & Authorization  
 
 ---
 
-## 📌 Current Projects
+## 📌 Current Project
 
-### 🌟 **Event Management System (Full Stack)**
-A complete event management platform I'm building from scratch.
+### 🌟 Event Management System (Full Stack)
+
+A complete event management platform that I’m building end to end.
 
 **Tech Stack:**  
-Django + React + MySQL  
-**Features:**  
-- User registration and login  
-- Create, manage and book events  
-- Admin panel  
-- API integration  
-- Planned publishing on Google Play & Apple Store  
+Django | React | MySQL  
+
+**Key Features:**  
+- User authentication and authorization  
+- Event creation, management, and booking  
+- Admin dashboard  
+- REST API integration  
+- Planned deployment for mobile platforms  
 
 ---
 
 ## 📚 Other Projects
-- 📘 **Book CRUD App (Node + MongoDB)**  
-- 🔐 **Authentication Practice Apps**  
-- ⚙️ **Django mini projects**  
-- 🎨 **React UI practice components**
+
+- 📘 **Book Management CRUD App** (Node.js + MongoDB)  
+- 🔐 **Authentication Practice Applications**  
+- ⚙️ **Django Mini Projects**  
+- 🎨 **React UI & Component Practice**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mofizulshuvo&show_icons=true&theme=tokyonight" height="165"/>
@@ -85,19 +92,21 @@ Django + React + MySQL
 
 ---
 
-## 📫 Contact Me
-- Email: **mofizul.shuvoislam@gmail.com**  
-- LinkedIn: *(add your link)*  
+## 📫 Contact
+
+- 📧 Email: **mofizul.shuvoislam@gmail.com**  
+- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
 
 ---
 
-## 🌱 What I'm Learning Right Now
-- React.js  
-- Django advanced concepts  
-- MySQL (advanced)  
-- Graph algorithms, greedy, DP  
-- System design basics  
+## 🌱 Currently Learning
+
+- Advanced React.js  
+- Django advanced backend concepts  
+- MySQL (advanced queries & optimization)  
+- Graph algorithms, Greedy algorithms, Dynamic Programming  
+- System design fundamentals  
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ Thanks for visiting my GitHub profile!
