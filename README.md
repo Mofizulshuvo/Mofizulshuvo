@@ -1,85 +1,95 @@
 <h1 align="center">Hi, I'm Shuvo 👋</h1>
 <p align="center">
-CSE Student | Full-Stack Learner | Building Practical, Real-World Projects
+CSE Student | MERN Stack Developer | Full-Stack Learner | Building Real-World Software
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Science & Engineering student learning software development step by step.  
-I believe in learning by building real projects instead of only following tutorials.
+I’m a **Computer Science & Engineering student** who believes the best way to learn software development is by **building real, practical projects**.
 
-Currently, I’m developing a complete **Event Management System** from scratch using:
+I primarily work as a **MERN Stack Developer** and also build backend systems using **Django** when needed.  
+My goal is to write clean, maintainable code while strengthening my core CS foundations.
 
-- **Django** for backend development  
-- **React** for frontend development  
-- **MySQL** for database management  
-
-Alongside development, I’m strengthening my core CS fundamentals including Algorithms, DBMS, and Theory of Computation.
+Currently, I’m developing a **complete Event Management System** from scratch and improving my knowledge of algorithms, databases, and system design.
 
 ---
 
-## 🛠️ Skills
+## 🧠 Tech Stack & Skills
 
 ### **Programming Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
 
-### **Frameworks & Libraries**
+### **Frontend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
 </p>
+
+- React.js  
+- Next.js  
+- Component-based UI development  
+- REST API integration  
+
+### **Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+</p>
+
+- Node.js & Express.js (MERN Stack)  
+- Django & Django REST Framework  
+- Authentication & Authorization  
+- RESTful API design  
 
 ### **Databases**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### **Core Knowledge & Concepts**
-- Data Structures & Algorithms  
-- Database Management Systems (Triggers, Security, Roles, Decomposition)  
-- Theory of Computation fundamentals  
-- Fourier Series (Complex & Trigonometric)  
-- REST API design  
-- Authentication & Authorization  
+- MongoDB  
+- MySQL  
+- Database design & optimization  
 
 ---
 
-## 📌 Current Project
+## 📌 Featured Project
 
 ### 🌟 Event Management System (Full Stack)
 
-A complete event management platform that I’m building end to end.
+A complete, real-world event management platform built end to end.
 
 **Tech Stack:**  
-Django | React | MySQL  
+MERN Stack (MongoDB, Express, React, Node.js)  
+Django | React | MySQL (alternative backend architecture)
 
 **Key Features:**  
-- User authentication and authorization  
-- Event creation, management, and booking  
+- User authentication & role-based access  
+- Event creation, booking, and management  
 - Admin dashboard  
 - REST API integration  
-- Planned deployment for mobile platforms  
+- Scalable backend design  
+- Planned production deployment  
 
 ---
 
 ## 📚 Other Projects
 
-- 📘 **Book Management CRUD App** (Node.js + MongoDB)  
-- 🔐 **Authentication Practice Applications**  
-- ⚙️ **Django Mini Projects**  
-- 🎨 **React UI & Component Practice**  
+- 📘 **Book Management System** (Node.js + MongoDB)  
+- 🔐 **Authentication & Authorization Practice Apps**  
+- ⚙️ **Django REST Mini Projects**  
+- 🎨 **React & Next.js UI Components**  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mofizulshuvo&show_icons=true&theme=tokyonight" height="165"/>
@@ -92,20 +102,21 @@ Django | React | MySQL
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced MERN Stack patterns  
+- Next.js (performance & routing)  
+- Advanced Django backend concepts  
+- MySQL query optimization  
+- Graph algorithms, Greedy algorithms, Dynamic Programming  
+- System design fundamentals  
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: **mofizul.shuvoislam@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/mofizul-shuvo  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React.js  
-- Django advanced backend concepts  
-- MySQL (advanced queries & optimization)  
-- Graph algorithms, Greedy algorithms, Dynamic Programming  
-- System design fundamentals  
 
 ---
 
