@@ -1,95 +1,106 @@
-<h1 align="center">Hi, I'm Shuvo 👋</h1>
+<h1 align="center">
+  Hi, I'm Shuvo 👋
+</h1>
+
+<h3 align="center">
+  🚀 MERN Stack Developer | CSE Student | Full-Stack Engineer in Progress
+</h3>
+
 <p align="center">
-CSE Student | MERN Stack Developer | Full-Stack Learner | Building Real-World Software
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I’m a **Computer Science & Engineering student** who believes the best way to learn software development is by **building real, practical projects**.
-
-I primarily work as a **MERN Stack Developer** and also build backend systems using **Django** when needed.  
-My goal is to write clean, maintainable code while strengthening my core CS foundations.
-
-Currently, I’m developing a **complete Event Management System** from scratch and improving my knowledge of algorithms, databases, and system design.
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 About Me
 
-### **Programming Languages**
-<p>
+🎓 **Computer Science & Engineering student**  
+🛠️ **MERN Stack Developer** focused on real-world systems  
+🔥 Passionate about building scalable, production-ready applications  
+
+I believe **projects > tutorials**.  
+I enjoy breaking systems, fixing them, and understanding how everything works behind the scenes.
+
+Currently building a **full-scale Event Management System** and strengthening my **CS fundamentals** alongside development.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Programming Languages
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
 
-### **Frontend**
-<p>
+### 🎨 Frontend
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
 </p>
 
 - React.js  
-- Next.js  
-- Component-based UI development  
-- REST API integration  
+- Next.js (SSR, Routing, Performance)  
+- Modern UI & Component Architecture  
 
-### **Backend**
-<p>
+### 🔧 Backend
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
 </p>
 
-- Node.js & Express.js (MERN Stack)  
+- Node.js & Express.js  
 - Django & Django REST Framework  
 - Authentication & Authorization  
-- RESTful API design  
+- RESTful API Design  
 
-### **Databases**
-<p>
+### 🗄️ Databases
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-- MongoDB  
-- MySQL  
-- Database design & optimization  
-
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
-### 🌟 Event Management System (Full Stack)
+### 🌟 Event Management System
 
-A complete, real-world event management platform built end to end.
+🧠 **End-to-end full-stack platform**
 
 **Tech Stack:**  
-MERN Stack (MongoDB, Express, React, Node.js)  
-Django | React | MySQL (alternative backend architecture)
+MERN Stack | Django | MySQL  
 
-**Key Features:**  
-- User authentication & role-based access  
-- Event creation, booking, and management  
+✨ Features:
+- Secure authentication & role-based access  
+- Event creation, booking & management  
 - Admin dashboard  
-- REST API integration  
-- Scalable backend design  
-- Planned production deployment  
+- REST API driven architecture  
+- Scalable & production-ready design  
 
 ---
 
-## 📚 Other Projects
+## 📦 Other Projects
 
-- 📘 **Book Management System** (Node.js + MongoDB)  
-- 🔐 **Authentication & Authorization Practice Apps**  
-- ⚙️ **Django REST Mini Projects**  
-- 🎨 **React & Next.js UI Components**  
+- 📘 Book Management System (Node.js + MongoDB)  
+- 🔐 Auth Systems & Security Practice Apps  
+- ⚙️ Django REST API Mini Projects  
+- 🎨 React & Next.js UI Libraries  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mofizulshuvo&show_icons=true&theme=tokyonight" height="165"/>
@@ -104,20 +115,26 @@ Django | React | MySQL (alternative backend architecture)
 
 ## 🌱 Currently Learning
 
-- Advanced MERN Stack patterns  
-- Next.js (performance & routing)  
-- Advanced Django backend concepts  
-- MySQL query optimization  
-- Graph algorithms, Greedy algorithms, Dynamic Programming  
-- System design fundamentals  
+- Advanced MERN architecture  
+- Next.js App Router & optimization  
+- Advanced Django REST patterns  
+- Database optimization  
+- Graph Algorithms & Dynamic Programming  
+- System Design  
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: **mofizul.shuvoislam@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/mofizul-shuvo  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mofizul-shuvo">
+    <img src="https://img.shields.io/badge/LinkedIn-Mofizul%20Shuvo-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mofizul.shuvoislam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ **Thanks for visiting my profile!**
