@@ -1,140 +1,120 @@
-<h1 align="center">
-  Hi, I'm Shuvo 👋
-</h1>
-
-<h3 align="center">
-  🚀 MERN Stack Developer | CSE Student | Full-Stack Engineer in Progress
-</h3>
+<!-- HERO SECTION -->
+<h1 align="center">Shuvo</h1>
+<h3 align="center">MERN Stack Developer • Full-Stack Engineer • CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Django+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Django+Backend+Engineer;Building+Production-Ready+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mofizulshuvo&label=Profile+Views&color=22c55e&style=flat" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge"/>
-</p>
+## 🧩 Who Am I
+
+I’m a **Computer Science & Engineering student** with a strong focus on **full-stack web development**.
+
+I work mainly with the **MERN stack**, build modern applications using **React & Next.js**, and design robust backends using **Node.js** and **Django**.  
+My learning style is simple: **build real systems, understand them deeply, and improve continuously**.
+
+I care about **clean architecture**, **scalability**, and **real-world usability**, not just finishing tutorials.
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech Arsenal
 
-🎓 **Computer Science & Engineering student**  
-🛠️ **MERN Stack Developer** focused on real-world systems  
-🔥 Passionate about building scalable, production-ready applications  
-
-I believe **projects > tutorials**.  
-I enjoy breaking systems, fixing them, and understanding how everything works behind the scenes.
-
-Currently building a **full-scale Event Management System** and strengthening my **CS fundamentals** alongside development.
-
----
-
-## ⚙️ Tech Stack
-
-### 🧩 Programming Languages
+### Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 </p>
 
-- React.js  
-- Next.js (SSR, Routing, Performance)  
-- Modern UI & Component Architecture  
-
-### 🔧 Backend
+### Backend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-- Node.js & Express.js  
-- Django & Django REST Framework  
-- Authentication & Authorization  
-- RESTful API Design  
-
-### 🗄️ Databases
+### Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌟 Event Management System
+### Event Management System
 
-🧠 **End-to-end full-stack platform**
+A **full-scale, real-world event platform** built from scratch.
 
-**Tech Stack:**  
-MERN Stack | Django | MySQL  
+**Stack**
+- MERN (MongoDB, Express, React, Node.js)
+- Django REST (alternative backend)
+- MySQL
 
-✨ Features:
-- Secure authentication & role-based access  
+**Highlights**
+- Authentication & role-based authorization  
 - Event creation, booking & management  
 - Admin dashboard  
 - REST API driven architecture  
-- Scalable & production-ready design  
+- Scalable, production-ready design  
 
 ---
 
-## 📦 Other Projects
+## 📦 Other Work
 
-- 📘 Book Management System (Node.js + MongoDB)  
-- 🔐 Auth Systems & Security Practice Apps  
-- ⚙️ Django REST API Mini Projects  
-- 🎨 React & Next.js UI Libraries  
+- Book Management System (Node.js + MongoDB)
+- Authentication & Security Practice Apps
+- Django REST API Mini Projects
+- React & Next.js UI Components
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity (Stable & Modern)
+
+> GitHub stats images often break or get rate-limited.  
+> These are **lighter, more reliable**, and used by many premium profiles.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mofizulshuvo&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofizulshuvo&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mofizulshuvo&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mofizulshuvo&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mofizulshuvo&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced MERN architecture  
-- Next.js App Router & optimization  
-- Advanced Django REST patterns  
-- Database optimization  
-- Graph Algorithms & Dynamic Programming  
-- System Design  
+- Advanced MERN architecture
+- Next.js App Router & performance
+- Backend scalability & security
+- Database optimization
+- Graph Algorithms & Dynamic Programming
+- System design fundamentals
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mofizul-shuvo">
-    <img src="https://img.shields.io/badge/LinkedIn-Mofizul%20Shuvo-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
   <a href="mailto:mofizul.shuvoislam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <strong>Building real systems. Learning deeply. Improving every day.</strong>
+</p>
