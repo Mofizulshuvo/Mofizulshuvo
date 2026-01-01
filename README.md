@@ -76,10 +76,9 @@ A **full-scale, real-world event platform** built from scratch.
 
 ---
 
-## 📈 GitHub Activity (Stable & Modern)
+## 📈 GitHub Activity 
 
-> GitHub stats images often break or get rate-limited.  
-> These are **lighter, more reliable**, and used by many premium profiles.
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mofizulshuvo&theme=react-dark&hide_border=true" />
