@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mofizul%20Islam%20Shuvo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Engineer+%F0%9F%92%BB;Building+Production-Ready+Apps+%E2%9C%A8;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Engineer+%F0%9F%92%BB;3rd+Year+CSE+Student+%F0%9F%8E%93;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -31,18 +31,18 @@
 ```javascript
 const shuvo = {
     role: "MERN Stack Developer",
+    education: "Computer Science & Engineering (3rd Year)",
     location: "Chattogram, Bangladesh 🇧🇩",
-    education: "Computer Science & Engineering Student",
-    workStyle: "Remote-First | Global Opportunities",
+    workStyle: "Remote-First | Open to Global Opportunities",
     
-    currentFocus: [
-        "Building production-ready applications",
-        "Mastering full-stack architecture",
-        "Contributing to open source",
-        "Learning system design patterns"
-    ],
+    expertise: {
+        webDevelopment: ["MERN Stack", "Full-Stack Architecture", "RESTful APIs"],
+        computerScience: ["Data Structures", "Algorithms", "Database Design"],
+        currentFocus: ["System Design", "Scalable Applications", "Open Source"]
+    },
     
-    motto: "Build real systems. Ship quality code. Solve real problems."
+    mindset: "Strong CS fundamentals + Real-world development experience",
+    motto: "Build production-ready systems that solve real problems"
 };
 ```
 
@@ -73,6 +73,7 @@ const shuvo = {
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -84,6 +85,14 @@ const shuvo = {
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -92,14 +101,6 @@ const shuvo = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 </div>
@@ -136,7 +137,7 @@ const shuvo = {
 - 📊 Admin Analytics Dashboard
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://vermillion-puffpuff-2d8ad4.netlify.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Mofizulshuvo/Local-Chef-Bazar-Frontend">
@@ -151,7 +152,7 @@ const shuvo = {
 <td width="50%">
 
 ### 📚 The Book Heaven
-#### Online Bookstore with Inventory System
+#### Online Book Sharing  System
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -168,7 +169,7 @@ const shuvo = {
 - 📜 Order History & Tracking
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://splendorous-marigold-bf0e36.netlify.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Mofizulshuvo/The-Book-Heaven-Frontend">
@@ -183,43 +184,7 @@ const shuvo = {
 </tr>
 </table>
 
-<!-- PROJECT 3 -->
-<table>
-<tr>
-<td width="100%">
 
-### 🎫 Event Management System
-#### Full-Scale Event Booking & Management Platform
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-</p>
-
-**🎯 Key Features:**
-✨ Role-Based Access Control (Admin, Organizer, Attendee) | 🎟️ Event Creation, Booking & Ticketing | 📊 Analytics Dashboard | 🔄 RESTful API Architecture | 🗄️ Multi-Database Support (MongoDB + MySQL)
-
-<p align="center">
-  <a href="YOUR_LIVE_LINK">
-    <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_REPO_LINK">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 <!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics
@@ -250,32 +215,58 @@ const shuvo = {
 ---
 
 <!-- CURRENT FOCUS -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Currently Learning
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Currently Exploring
 ```typescript
-const currentlyLearning = {
-    technical: [
-        "Advanced MERN Architecture & Design Patterns",
+const currentFocus = {
+    advancedDevelopment: [
+        "Microservices Architecture with Node.js",
         "Next.js 15 App Router & Server Components",
-        "Microservices with Node.js",
         "GraphQL & Apollo Client",
-        "Redis Caching Strategies",
-        "Docker & Kubernetes Basics"
+        "Redis Caching & Performance Optimization",
+        "Docker Containerization Basics",
+        "CI/CD Pipelines & DevOps Fundamentals"
     ],
     
-    computerScience: [
-        "Data Structures & Algorithms",
-        "Graph Algorithms & Dynamic Programming",
-        "System Design & Scalability",
-        "Database Optimization & Indexing"
+    systemDesign: [
+        "Scalable System Architecture",
+        "Database Optimization & Indexing",
+        "Load Balancing & Distributed Systems",
+        "API Design Best Practices"
     ],
     
-    soft_skills: [
-        "Technical Writing & Documentation",
-        "Code Review Best Practices",
-        "Agile Development Methodology"
+    problemSolving: [
+        "Advanced Algorithm Design",
+        "Competitive Programming",
+        "LeetCode & Technical Interview Prep"
+    ],
+    
+    softSkills: [
+        "Technical Documentation",
+        "Code Review & Collaboration",
+        "Open Source Contributions"
     ]
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<!-- ACADEMIC FOUNDATION -->
+## 🎓 Academic Foundation
+
+**Computer Science & Engineering (3rd Year)**
+
+**Core Competencies:**
+-  Data Structures & Algorithms (Proficient)
+-  Database Management Systems (MySQL, MongoDB)
+-  Operating Systems & Computer Networks
+-  Object-Oriented Programming (C++, Java, Python)
+-  Software Engineering Principles
+-  Web Technologies & Full-Stack Development
+
+**Why This Matters:**  
+Strong CS fundamentals + hands-on development experience = ability to build scalable, efficient, production-ready systems.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -323,10 +314,10 @@ const currentlyLearning = {
 <!-- FOOTER QUOTE -->
 <div align="center">
   
-### 💡 *"Building real systems. Solving real problems. Ready for opportunities."*
+### 💡 *"Strong CS fundamentals. Real-world development skills. Ready to contribute."*
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-**⭐ From [Mofizulshuvo](https://github.com/Mofizulshuvo) | Open to Remote Full-Stack Roles**
+**⭐ From [Mofizulshuvo](https://github.com/Mofizulshuvo) | Open to Full-Stack Developer Roles**
 
 </div>
